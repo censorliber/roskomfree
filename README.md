@@ -1,1 +1,1 @@
-## RoskomFree (РоскомФрии) - бесплатный и быстрый HTTP Proxy на основе Tor 
+## RoskomFree (РоскомФрии) - HTTP Proxy на основе Tor 
