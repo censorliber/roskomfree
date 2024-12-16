@@ -68,3 +68,6 @@ news.google.com +proxy
 
 ![image](https://github.com/user-attachments/assets/516ff29b-842c-4ebc-8403-12a83ce7d7ab)
 
+Выйдите из настроек. Теперь Вам следует выбрать режим `auto switch`, нажав по иконке расширения:
+
+![image](https://github.com/user-attachments/assets/c57837ca-9e40-4d0b-a90c-1f544493a6f1)
