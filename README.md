@@ -41,6 +41,16 @@ scontent-hel3-1.cdninstagram.com +proxy
 play.google.com +proxy
 yt3.ggpht.com +proxy
 youtu.be +proxy
+*.discord.com +proxy
+*.discord.gg +proxy
+*.discordapp.com +proxy
+*.discordapp.net +proxy
+*.discord.media +proxy
+*.discord-attachments-uploads-prd.storage.googleapis.com +proxy
+*.dis.gd +proxy
+*.discord.co +proxy
+*.discordcdn.com +proxy
+*.discordstatus.com +proxy
 bbc.com +proxy
 *.proton.me +proxy
 twitter.com +proxy
