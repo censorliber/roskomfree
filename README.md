@@ -19,3 +19,42 @@
 Нажмите `Edit source code`
 
 ![image](https://github.com/user-attachments/assets/f0559845-4d10-45c2-941a-33ad8d93f4ce)
+
+```python
+[SwitchyOmega Conditions]
+@with result
+
+*.instagram.com +proxy
+scontent-hel3-1.cdninstagram.com +proxy
+*.cdninstagram.com +proxy
+*.ntc.party +proxy
+*.youtube.com +proxy
+*.googlevideo.com +proxy
+play.google.com +proxy
+yt3.ggpht.com +proxy
+youtu.be +proxy
+bbc.com +proxy
+*.proton.me +proxy
+twitter.com +proxy
+*.twimg.com +proxy
+t.co +proxy
+x.com +proxy
+*.torproject.org +proxy
+*.rutracker.org +proxy 
+*.rutracker.cc +proxy
+*.archive.org +proxy
+*.web.archive.org +proxy
+*.soundcloud.com +proxy
+*.mullvad.net +proxy
+*.nnmclub.to +proxy
+*.roskomsvoboda.org +proxy
+holod.media +proxy
+news.google.com +proxy
+*.medium.com +proxy
+*.habr.com +proxy
+*.hybrid-analysis.com +proxy
+*.4pda.to +proxy
+*.chatgpt.com +proxy
+
+* +direct
+```
