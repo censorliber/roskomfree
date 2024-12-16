@@ -5,7 +5,7 @@
 <br>
 Для запуска в фоне запустите - `RoskomFree_service.cmd`
 
-### 2. Скачайте ZeroProxy
+### 2. Установите расширение ZeroProxy
 - Для Chrome https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped
 - Для Firefox https://addons.mozilla.org/en-US/firefox/addon/zeroomega/
 
