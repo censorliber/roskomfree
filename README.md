@@ -15,3 +15,7 @@
 Перейдите во вкладку `auto switch`:
 
 ![image](https://github.com/user-attachments/assets/4c65a761-0c8e-422a-91b7-5d5192d21fca)
+
+Нажмите `Edit source code`
+
+![image](https://github.com/user-attachments/assets/f0559845-4d10-45c2-941a-33ad8d93f4ce)
