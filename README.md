@@ -1,1 +1,1 @@
-## RoskomFree (РоскомФрии) - HTTP Proxy на основе Tor 
+## RoskomFree - HTTP Proxy на основе Tor 
