@@ -1,4 +1,4 @@
-## RoskomFree - HTTP Proxy на основе Tor 
+<center><h1>RoskomFree - HTTP Proxy на основе Tor</h1></center>
 ### 1. Скачайте и запустите RoskomFree
 Для запуска окна консоли и отладки запустите - `RoskomFree.cmd`
 <br>
