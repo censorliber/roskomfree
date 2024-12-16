@@ -6,7 +6,12 @@
 
 А простая установка и инструкция позволяет установить данное решение даже для полных чайников.
 
-https://t.me/youtubenotwork/8906
+> [!WARNING]  
+> Чтобы знать о выходах последних обновлений рекомендуем подписаться на наш Telegram канал https://t.me/roskomfree
+
+> [!CAUTION]  
+> Если у вас возникли любые вопросы Вы можете задать их в Telegram группе https://t.me/youtubenotwork
+
 
 ### 1. Скачайте и запустите RoskomFree
 Скачать по ссылке: https://github.com/censorliber/roskomfree/archive/refs/heads/main.zip
