@@ -1,4 +1,9 @@
 ## RoskomFree - HTTP Proxy на основе Tor 
+### 1. Скачайте и запустите RoskomFree
+Для запуска окна консоли и отладки запустите - `RoskomFree.cmd`
+<br>
+Для запуска в фоне запустите - `RoskomFree_service.cmd`
+
 ### 2. Скачайте ZeroProxy
 - Для Chrome https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped?hl=en
 - Для Firefox https://addons.mozilla.org/en-US/firefox/addon/zeroomega/
